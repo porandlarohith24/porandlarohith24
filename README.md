@@ -43,7 +43,7 @@ I'm a **Machine Learning Engineer & Full-Stack Developer** with a strong passion
 ## 🎓 **Education & Certification**
 - **MSc in Advanced Computer Science**, University of Leicester (2022-2024)
 - **Learn Python Programming Masterclass**, Udemy (2025)  
-  🔗 [Certificate](ude.my/UC-a914ba9a-760d-49ee-aae9-7e96215b1a48)
+  🔗 [Certificate](https://www.udemy.com/certificate/UC-a914ba9a-760d-49ee-aae9-7e96215b1a48/)
 
 ## 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rporandla/)  
