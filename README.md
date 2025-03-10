@@ -34,8 +34,6 @@ I'm a **Machine Learning Engineer & Full-Stack Developer** with a strong passion
 - Integrated **FastAPI backend** for dynamic AI model switching.
 - Tracked experiments with **Weights & Biases (WandB)**.
 
-🔗 **[GitHub Repo](#)** | 🔗 **[Research Findings](#)**
-
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohith-porandla&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-porandla&layout=compact&theme=dark)
